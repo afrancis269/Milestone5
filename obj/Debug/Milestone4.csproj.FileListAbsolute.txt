@@ -1,0 +1,13 @@
+F:\Coding\web_19.08.2021\CST150\Milestone4\Milestone4\bin\Debug\Milestone4.exe.config
+F:\Coding\web_19.08.2021\CST150\Milestone4\Milestone4\bin\Debug\Milestone4.exe
+F:\Coding\web_19.08.2021\CST150\Milestone4\Milestone4\bin\Debug\Milestone4.pdb
+F:\Coding\web_19.08.2021\CST150\Milestone4\Milestone4\obj\Debug\Milestone4.csproj.AssemblyReference.cache
+F:\Coding\web_19.08.2021\CST150\Milestone4\Milestone4\obj\Debug\Milestone4.csproj.SuggestedBindingRedirects.cache
+F:\Coding\web_19.08.2021\CST150\Milestone4\Milestone4\obj\Debug\Milestone4.Form1.resources
+F:\Coding\web_19.08.2021\CST150\Milestone4\Milestone4\obj\Debug\Milestone4.Properties.Resources.resources
+F:\Coding\web_19.08.2021\CST150\Milestone4\Milestone4\obj\Debug\Milestone4.csproj.GenerateResource.cache
+F:\Coding\web_19.08.2021\CST150\Milestone4\Milestone4\obj\Debug\Milestone4.csproj.CoreCompileInputs.cache
+F:\Coding\web_19.08.2021\CST150\Milestone4\Milestone4\obj\Debug\Milestone4.exe
+F:\Coding\web_19.08.2021\CST150\Milestone4\Milestone4\obj\Debug\Milestone4.pdb
+F:\Coding\web_19.08.2021\CST150\Milestone4\Milestone4\obj\Debug\Milestone4.AddBook.resources
+F:\Coding\web_19.08.2021\CST150\Milestone4\Milestone4\obj\Debug\Milestone4.EditBook.resources
